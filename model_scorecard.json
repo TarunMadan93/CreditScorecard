@@ -1,0 +1,10 @@
+{
+     "Coefficients": {
+          "intercept": -2.602017110556299,
+          "NumberOfTime30-59DaysPastDueNotWorse": -0.5299576182387776,
+          "NumberOfTime60-89DaysPastDueNotWorse": -0.3855098304424465,
+          "NumberOfTimes90DaysLate": -0.5335887671191586,
+          "RevolvingUtilizationOfUnsecuredLines": -0.642322236879857,
+          "age": -0.45193820909147925
+     }
+}
